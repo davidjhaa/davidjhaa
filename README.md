@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
 - 📫 &nbsp;How to reach me , you can email me at vishaljhaa4u@gmail.com
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vishalkumar/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vishal-kumar-622a51265/)
 - 📝 &nbsp; Checkout my [resume](<link>)
 - 📚 &nbsp; When I am free, I love to watch football and netflix.
 <br>
