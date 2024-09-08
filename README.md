@@ -28,7 +28,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [resume](<link>)
 - 📚 &nbsp; When I am free, I read chetan Bhagat novels.
 <br>
-
+<br>
 
 <summary><b>🔨 Languages and Tools:</b></summary>
 <p align="center">
