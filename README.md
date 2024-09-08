@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishal </h1>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjhaa&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-dev" /> </p>
 
 <!--
 **davidjhaa/davidjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
